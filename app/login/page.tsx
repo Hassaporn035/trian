@@ -85,7 +85,7 @@ export default function LoginPage() {
           <div className="mx-auto mb-4 flex h-14 w-14 items-center justify-center rounded-2xl bg-white/15 shadow-lg ring-1 ring-white/20 backdrop-blur-sm">
             <MapPinIcon className="h-8 w-8 text-red-100" aria-hidden />
           </div>
-          <p className="text-xs font-semibold uppercase tracking-[0.2em] text-red-200/90">Trian</p>
+          <p className="text-xs font-semibold uppercase tracking-[0.2em] text-red-200/90">Train</p>
           <h1 className="mt-2 font-serif text-2xl font-semibold tracking-tight sm:text-3xl">
             ธนบุรี — น้ำตก
           </h1>

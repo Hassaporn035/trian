@@ -125,7 +125,7 @@ export default function HomeExplore({ userFirstName, stations }: Props) {
                         </h2>
                       </div>
                       <span className="inline-flex shrink-0 items-center gap-1 text-xs font-medium text-red-800">
-                        {expanded ? 'ซ่อนรายชื่อสถานที่' : 'คลิกเพื่อดูรายชื่อสถานที่'}
+                        {expanded ? 'ซ่อนรายชื่อสถานที่' : 'คลิกเพื่อเปิด Maps'}
                         <ChevronRightIcon
                           className={`h-3.5 w-3.5 transition ${expanded ? 'rotate-90' : ''}`}
                         />
